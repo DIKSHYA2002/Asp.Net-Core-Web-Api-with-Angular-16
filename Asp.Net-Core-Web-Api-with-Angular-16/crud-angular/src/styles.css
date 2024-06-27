@@ -4,3 +4,16 @@
 @tailwind utilities;
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mat-progress-spinner circle, .mat-spinner circle {
+    stroke: blue;
+    }
+
+    .mat-mdc-form-field-flex {
+        background: white;
+     
+    }
+     
+  .mat-mdc-text-field-wrapper.mdc-text-field.mdc-text-field--filled{
+    background: none;
+  }

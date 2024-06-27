@@ -1,0 +1,13 @@
+.employee-form{
+    display: flex;
+    flex-direction: column;
+}
+.add-employee-btn{
+    background-color: black;
+    padding: 0.5rem;
+    color: white;
+    width: 15%;
+    margin: auto;
+}
+
+
